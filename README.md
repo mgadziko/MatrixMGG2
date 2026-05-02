@@ -1,2 +1,2 @@
 # MatrixMGG2
-Matrix Screensaver showing active processes
+macOS Matrix Screensaver showing active processes
